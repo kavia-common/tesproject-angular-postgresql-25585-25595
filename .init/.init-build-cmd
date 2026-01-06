@@ -1,0 +1,4 @@
+{
+    "command": "dotnet build",
+    "working_directory": "/home/kavia/workspace/code-generation/tesproject-angular-postgresql-25585-25595/backend"
+}
